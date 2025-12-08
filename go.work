@@ -1,8 +1,9 @@
 go 1.25.5
 
 use ./day01
-use ./math
-use ./number
-use ./slice
-use ./stream
-use ./system
+use ./shared/cond
+use ./shared/math
+use ./shared/number
+use ./shared/slice
+use ./shared/stream
+use ./shared/system
