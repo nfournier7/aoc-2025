@@ -1,0 +1,8 @@
+go 1.25.5
+
+use ./day01
+use ./math
+use ./number
+use ./slice
+use ./stream
+use ./system
