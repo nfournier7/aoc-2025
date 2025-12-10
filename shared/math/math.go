@@ -22,7 +22,7 @@ func Max(a int32, b int32) int32 {
 	return a
 }
 
-func Min(a int32, b int32) int32 {
+func Min(a int, b int) int {
 	if b < a {
 		return b
 	}

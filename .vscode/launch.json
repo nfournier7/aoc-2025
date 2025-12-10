@@ -12,11 +12,18 @@
             "program": "${workspaceFolder}/day01"
         },
         {
-            "name": "Launch day01 Tests",
+            "name": "Launch day02",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/day02"
+        },
+        {
+            "name": "Launch day02 Tests",
             "type": "go",
             "request": "launch",
             "mode": "test",
-            "program": "${workspaceFolder}/day01"
+            "program": "${workspaceFolder}/day02"
         }
     ]
 }

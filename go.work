@@ -1,6 +1,7 @@
 go 1.25.5
 
 use ./day01
+use ./day02
 use ./shared/cond
 use ./shared/math
 use ./shared/number
