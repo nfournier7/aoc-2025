@@ -2,8 +2,8 @@
     "editor.detectIndentation": false,
     "editor.formatOnSave": false,
     "[go]": {
-        "editor.formatOnSave": false
-    },
-    "editor.tabSize": 4,        // Set the number of spaces per tab
-    "editor.insertSpaces": true, // Use spaces instead of tabs
+        "editor.formatOnSave": false,
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4
+    }
 }

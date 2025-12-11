@@ -24,6 +24,20 @@
             "request": "launch",
             "mode": "test",
             "program": "${workspaceFolder}/day02"
+        },
+        {
+            "name": "Launch day03",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/day03"
+        },
+        {
+            "name": "Launch day03 Tests",
+            "type": "go",
+            "request": "launch",
+            "mode": "test",
+            "program": "${workspaceFolder}/day03"
         }
     ]
 }
