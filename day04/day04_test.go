@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func Test_PrintingDepartmentPartOne(t *testing.T) {
+func Test_PartOne(t *testing.T) {
     const resultExpected uint64 = 13
     
     data := Storage{}
@@ -19,7 +19,7 @@ func Test_PrintingDepartmentPartOne(t *testing.T) {
     }
 }
 
-func Test_PrintingDepartmentPartTwo(t *testing.T) {
+func Test_PartTwo(t *testing.T) {
     const resultExpected uint64 = 43
     
     data := Storage{}

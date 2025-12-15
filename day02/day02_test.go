@@ -6,7 +6,7 @@ import (
 	"testing"
 )
 
-func Test_GiftShopPartOne(t *testing.T) {
+func Test_PartOne(t *testing.T) {
     const resultExpected uint64 = 1227775554
     
     data := Data{}
@@ -20,7 +20,7 @@ func Test_GiftShopPartOne(t *testing.T) {
     }
 }
 
-func Test_GiftShopPartTwo(t *testing.T) {
+func Test_PartTwo(t *testing.T) {
     const resultExpected uint64 = 4174379265
     
     data := Data{}

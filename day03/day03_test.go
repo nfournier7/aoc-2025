@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func Test_LobbyPartOne(t *testing.T) {
+func Test_PartOne(t *testing.T) {
     resultExpected := uint64(357)
     
     data := Data{}
@@ -31,7 +31,7 @@ func Test_LobbyPartOne(t *testing.T) {
     }
 }
 
-func Test_LobbyPartTwo(t *testing.T) {
+func Test_PartTwo(t *testing.T) {
     resultExpected := uint64(3121910778619)
     
     data := Data{}

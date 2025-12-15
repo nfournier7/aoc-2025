@@ -6,7 +6,7 @@ import (
 )
 
 func Test_PartOne(t *testing.T) {
-    const resultExpected uint64 = 3
+    const resultExpected uint64 = 21
     
     data := Data{}
 
@@ -20,7 +20,7 @@ func Test_PartOne(t *testing.T) {
 }
 
 func Test_PartTwo(t *testing.T) {
-    const resultExpected uint64 = 14
+    const resultExpected uint64 = 40
     
     data := Data{}
 
